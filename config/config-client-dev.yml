@@ -1,2 +1,4 @@
-user: 
-  name: 123
+user:
+  username: zhangsan-dev-git
+  password: mima123456-dev-git
+  nickname: zs-dev-git
